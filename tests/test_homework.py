@@ -6,6 +6,7 @@ import pandas as pd  # type: ignore
 
 from homework.country_scientific_production import make_worldmap 
 
+
 def test_01():
     """Test country_scientific_production.py."""
 
